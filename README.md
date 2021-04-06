@@ -1,4 +1,9 @@
 # AutoCAIN_PS
+
+##
+## I'm not updating this anymore. feel free to make changes to it in a fork or something, idk, go nuts.
+##
+
 A variation of AutoCAIN which works using PowerShell instead of the CMD batch
 
 ## Requirements (All need to be in the same folder as the .bat)
